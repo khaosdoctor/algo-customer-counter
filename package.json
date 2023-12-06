@@ -1,0 +1,16 @@
+{
+  "name": "stripe",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Santos <hello@lsantos.dev> (https://lsantos.dev/)",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@types/node": "^20.10.3"
+  }
+}
